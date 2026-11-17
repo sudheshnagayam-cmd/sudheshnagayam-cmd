@@ -42,11 +42,6 @@ I enjoy exploring new technologies, solving programming problems, and working on
 
 [Visit My Personal Portfolio](https://my-site-3oi46bl7-sudheshnagayam.wix-vibe-site.com/)
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudheshnagayam-cmd&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheshnagayam-cmd&layout=compact&theme=tokyonight)
 
 ---
 
